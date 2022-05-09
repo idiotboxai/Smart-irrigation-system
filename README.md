@@ -21,4 +21,9 @@ and easy to explaining for me too :p
  ![image](https://user-images.githubusercontent.com/83394182/167321724-3d2d082b-35f4-4aa3-aebc-a2f07ed023f5.png)
 
  
+# procedure
+
+[![Watch the video](https://img.youtube.com/vi/ReOy2kQIPbw/maxresdefault.jpg)](https://youtu.be/ReOy2kQIPbw)
+
+
 
